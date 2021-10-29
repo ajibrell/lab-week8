@@ -1,0 +1,31 @@
+body {
+    color: purple;
+    background-color: lavenderblush;
+}
+
+#container {
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Poppins";
+}
+
+#animal-img {
+    border: 10px solid purple;
+    border-radius: 200px;
+    align-items: center;
+}
+
+
+button {
+    
+    border: 1px solid;
+    border-radius: 10px;
+    background-color:purple;
+    color: white;
+    font-size: 40px;
+    margin: 20px;
+}
